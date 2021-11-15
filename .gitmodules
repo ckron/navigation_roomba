@@ -1,0 +1,3 @@
+[submodule "ld06_ros2"]
+	path = ld06_ros2
+	url = https://github.com/ckron/ld06_ros2.git
